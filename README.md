@@ -3,7 +3,7 @@
 PageRank is a popular graph algorithm used for information
 retrieval and was first popularized as an algorithm powering
 the Google search engine. Details of the PageRank algorithm will be
-discussed in class. Here, you will implement several functions that
+discussed in class. Here are several functions that
 implement the PageRank algorithm in Racket.
 
 # (graph? g)
