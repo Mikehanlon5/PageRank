@@ -4,22 +4,7 @@
 ;;
 ;; PageRank is a popular graph algorithm used for information
 ;; retrieval and was first popularized as an algorithm powering
-;; the Google search engine. Details of the PageRank algorithm will be
-;; discussed in class. Here, you will implement several functions that
-;; implement the PageRank algorithm in Racket.
-;;
-;; Hints: 
-;; 
-;; - For this assignment, you may assume that no graph will include
-;; any "self-links" (pages that link to themselves) and that each page
-;; will link to at least one other page.
-;;
-;; - you can use the code in `testing-facilities.rkt` to help generate
-;; test input graphs for the project. The test suite was generated
-;; using those functions.
-;;
-;; - You may want to define "helper functions" to break up complicated
-;; function definitions.
+;; the Google search engine.
 
 (provide graph?
          pagerank?
