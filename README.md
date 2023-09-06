@@ -1,4 +1,4 @@
-#Implementing PageRank
+# Implementing PageRank
 
 PageRank is a popular graph algorithm used for information
 retrieval and was first popularized as an algorithm powering
